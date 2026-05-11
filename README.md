@@ -1,4 +1,4 @@
-# Mapping Slavery - The Legacy of Slavery in Brooklyn
+# Mapping Slavery - a paved legacy in Brooklyn
 A prototype for GIS data visualization
 
 ## Project Description
@@ -28,3 +28,19 @@ After the dataframes and geodataframes were created, I used mainly Folium and Ma
 I hope that I can keep working on this project and map the entirety of Brooklyn. I'd like to work with NESRI directly to accomplish this. Also, the street names must be investigated using genealogical records. Some family names were spelled mutliple ways, like the Vanderveers, and it is unclear at this moment if these were different families or misspellings. This would be done outside of a Python environment and requires dedicated archival research. Additionally, someone could digitze the old Brooklyn planning map and make an interactive layer that highlights property ownership before modern Brooklyn. I imagine a team of GIS and data visualization professionals and geographical librarians could tackle that. There are a lot of exciting paths from this project.
 
 ## Files List
+
+* [Interactive map](/finalmap_refd.html) - final_maprefd
+
+  #### Charts made of family enslavement totals
+
+  * All families data -  [families_bar](/families_bar.html) and families_bar.json
+  * Clarkson - [clarkson_table.html](clarkson_table.html) and clarkson_table_plain.json
+  * Cortelyou - [cortelyou_table.html](cortelyou_table.html) and cortelyou_table_plain.json
+  * Ditmas - [ditmas_table.html](ditmas_table.html) and ditmas_sum_table.json
+  * Lefferts - [lefferts_line.html](/lefferts_line.html) and lefferts_line.json
+  * Lott - [lott_line.html](/lott_line.html) and lott_line.json
+  * Martense - [martense_line.html](/martense_line.html) and martense_line.json
+  * Remsen - [remsen_line.html](/remsen_line.html) and remsen_line.json
+  * Vanderveer - [vanderveer_line.html](/vanderveer_line.html) and vanderveer_line.json
+
+* GeoJSON file with neighborhood geometry - boroquery.json
