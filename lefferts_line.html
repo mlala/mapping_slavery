@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@6"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@6.1.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@7"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}}, "data": {"name": "data-c3e5cd7d1f7c3266ef85925747fd57fe"}, "mark": {"type": "line", "point": true}, "encoding": {"color": {"value": "#72b7b2"}, "tooltip": [{"field": "RecYear", "timeUnit": "year", "title": "Year", "type": "temporal"}, {"field": "Slaves", "title": "Enslaved People", "type": "quantitative"}], "x": {"field": "RecYear", "scale": {"domain": [1745, 1825]}, "timeUnit": "year", "title": "Year", "type": "temporal"}, "y": {"field": "Slaves", "scale": {"domain": [0, 28]}, "title": "People", "type": "quantitative"}}, "title": "People Enslaved by the Lefferts Family", "$schema": "https://vega.github.io/schema/vega-lite/v6.1.0.json", "datasets": {"data-c3e5cd7d1f7c3266ef85925747fd57fe": [{"RecYear": "1755-01-01T00:00:00", "Slaves": 6.0}, {"RecYear": "1790-01-01T00:00:00", "Slaves": 26.0}, {"RecYear": "1800-01-01T00:00:00", "Slaves": 8.0}, {"RecYear": "1810-01-01T00:00:00", "Slaves": 5.0}, {"RecYear": "1820-01-01T00:00:00", "Slaves": 8.0}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>
