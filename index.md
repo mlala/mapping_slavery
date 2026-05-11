@@ -29,7 +29,7 @@ I'd like to take a moment to thank Fred Benton, co-director of NESRI, for sendin
 
 # Results
 
-#### [Map of Streets in Flatbush, Brooklyn](/static_test/finalmap_refd.html)
+#### [Map of Streets in Flatbush, Brooklyn](/mapping_slavery/finalmap_refd.html)
 
 
 
