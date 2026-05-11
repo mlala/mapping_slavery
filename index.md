@@ -27,9 +27,7 @@ I'd like to take a moment to thank Fred Benton, co-director of NESRI, for sendin
 >
 > 
 
-#### [Map of Streets in Flatbush, Brooklyn](/mapping_slavery/finalmap_refd.html)
-
-## Future Use
+## Future Work
 
 I hope that I can keep working on this project and map the entirety of Brooklyn. I'd like to work with NESRI directly to accomplish this. Additionally, I'd like to digitze the old Brooklyn planning maps and make an interactive layer that highlights property ownership before modern Brooklyn (like a chlorpleth map). I imagine I'd need a team of GIS and data visualization professionals, map librarians, and archivists. There are a lot of exciting paths to explore! 
 
