@@ -2,7 +2,7 @@
 A prototype for GIS data visualization
 
 ## Project Description
-This project is built to visualize the streets in Brooklyn that are named after enslaver families. For the prorotype, the focus is on the neighborhood of Flatbush which was previously a town in the 18th and 19th centuries. The streets highlighted identify slave-holding families and list the names of the enslaved held captive by the family. The charts extrapolate data from the North East Slavery Records Index to show the amount of people enslaved according to records of the time, broken down by family and year.
+This project is built to visualize the streets in Brooklyn that are named after enslaver families. For the prototype, the focus is on the neighborhood of Flatbush which was previously a town in the 18th and 19th centuries. The streets highlighted identify slave-holding families and list the names of the enslaved held captive by the family. The charts extrapolate data from the North East Slavery Records Index to show the amount of people enslaved according to records of the time, broken down by family and year.
 
 ## Motivation
 
