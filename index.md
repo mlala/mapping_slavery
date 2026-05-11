@@ -31,7 +31,7 @@ I'd like to take a moment to thank Fred Benton, co-director of NESRI, for sendin
 
 ## Future Use
 
-I hope that I can keep working on this project and map the entirety of Brooklyn. I'd like to work with NESRI directly to accomplish this. Also, the street names must be investigated using genealogical records. Some family names were spelled mutliple ways, like the Vanderveers, and it is unclear at this moment if these were different families or misspellings. This would be done outside of a Python environment and requires dedicated archival research. Additionally, someone could digitze the old Brooklyn planning map and make an interactive layer that highlights property ownership before modern Brooklyn. I imagine a team of GIS and data visualization professionals and geographical librarians could tackle that. There are a lot of exciting paths from this project.
+I hope that I can keep working on this project and map the entirety of Brooklyn. I'd like to work with NESRI directly to accomplish this. Additionally, I'd like to digitze the old Brooklyn planning maps and make an interactive layer that highlights property ownership before modern Brooklyn (like a chlorpleth map). I imagine I'd need a team of GIS and data visualization professionals, map librarians, and archivists. There are a lot of exciting paths to explore! 
 
 # Results
 
@@ -41,7 +41,7 @@ I hope that I can keep working on this project and map the entirety of Brooklyn.
 
   * [All families chart](/mapping_slavery/families_bar.html)
   * [Clarkson](/mapping_slavery/clarkson_table.html)
-  * Cortelyou - [cortelyou_table.html](cortelyou_table.html)
+  * [Cortelyou](/mapping_slavery/cortelyou_table.html)
   * [Ditmas](/mapping_slavery/ditmas_table.html)
   * [Lefferts](/mapping_slavery/lefferts_line.html)
   * [Lott](/mapping_slavery/lott_line.html)
