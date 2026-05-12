@@ -48,6 +48,6 @@ I hope that I can keep working on this project and map the entirety of Brooklyn.
 
 ### test
 
-<iframe>
+<div>
  {"Year":{"0":"1755"},"Enslaved People":{"0":4}}
-</iframe>
+</div>
