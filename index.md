@@ -7,11 +7,11 @@ Mapping Slavery: a paved legacy in Brooklyn
 ## About Me
 Maya Davis is a current graduate student in the Library and Information Sciences at the Pratt Institute. She is interested in archiving, cultural stewardship, the African diaspora, data visualization, swimming, and trying exotic fruits.
 
-[contact](mailto:mdavi395@pratt.edu)
+[contact me](mailto:mdavi395@pratt.edu)
 
 ## Project Description
 
-This project was built using Python to visualize the streets in Brooklyn that are named after slave-holding families. For the prototype, the focus is on the neighborhood of Flatbush which was previously a town in the 18th and 19th centuries. The streets highlighted identify slave-holding families and list the names of the enslaved held captive by the family. The charts extrapolate data from the North East Slavery Records Index to show the amount of people enslaved according to records of the time, broken down by family and year. 
+This project was built using Python to visualize the streets in Brooklyn that are named after slave-holding families. For the prototype, the focus is on the neighborhood of Flatbush which was previously a town in the 18th and 19th centuries. The streets highlighted identify slave-holding families and list the names of the people held captive. The charts extrapolate data from the North East Slavery Records Index to show the amount of people enslaved according to records of the time, broken down by family and year. 
 
 ## Motivation
 
@@ -25,7 +25,9 @@ I'd like to take a moment to thank Fred Benton, co-director of NESRI, for sendin
 
 ## Disclaimers
 
-The street names must be further substantiated using genealogical records. Some family names were spelled mutliple ways, like the Vanderveers, and it is unclear from my preliminal research if these were different families or misspellings. I hope to continue working on this and dedicate time to archival research.
+The street names must be further substantiated using genealogical records. Some family names were spelled mutliple ways, like the Vanderveers, and it is unclear from my preliminal research if these were different families or misspellings. 
+
+Slavery records seldom include identifying information about enslaved people. There are countless names lost to time.
 
 
 ## Future Work
@@ -53,9 +55,5 @@ Families with only one record are in the table below:
 | Cortelyou    | 1800  | 7     |
 | Ditmas  | 1810   | 6     |
 
-
-  * [Clarkson](/mapping_slavery/clarkson_table.html)
-  * [Cortelyou](/mapping_slavery/cortelyou_table.html)
-  * [Ditmas](/mapping_slavery/ditmas_table.html)
 
 
