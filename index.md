@@ -46,6 +46,6 @@ I hope that I can keep working on this project and map the entirety of Brooklyn.
   * [Remsen](/mapping_slavery/remsen_line.html)
   * [Vanderveer](/mapping_slavery/vanderveer_line.html)
 
-### [Technical Specs](/mapping_slavery/another-page.md)
+### [Technical Specs](/mapping_slavery/another_page.md)
 
 
