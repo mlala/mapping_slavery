@@ -36,9 +36,16 @@ I hope that I can keep working on this project and map the entirety of Brooklyn.
 
 #### [Map of Streets in Flatbush, Brooklyn](/mapping_slavery/finalmap_refd.html)
 
-#### Charts made of family enslavement totals
+#### Charts of family enslavement totals
 
   * [All families chart](/mapping_slavery/families_bar.html)
+
+* | Family  | Year | Number of Enslaved  |
+  |----------|-------|--------|
+  | Laptop   | $800  | 10     |
+  | Phone    | $500  | 15     |
+  | Headset  | $50   | 30     |
+    
   * [Clarkson](/mapping_slavery/clarkson_table.html)
   * [Cortelyou](/mapping_slavery/cortelyou_table.html)
   * [Ditmas](/mapping_slavery/ditmas_table.html)
