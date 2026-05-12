@@ -7,7 +7,7 @@ Mapping Slavery: a paved legacy in Brooklyn
 ## About Me
 Maya Davis is a current graduate student in the Library and Information Sciences at the Pratt Institute. She is interested in archiving, cultural stewardship, the African diaspora, data visualization, swimming, and trying exotic fruits.
 
-[contact](mdavi395@pratt.edu)
+[contact](mailto:mdavi395@pratt.edu)
 
 ## Project Description
 
