@@ -35,7 +35,7 @@ I hope that I can keep working on this project and map the entirety of Brooklyn.
 
 #### [Map of Streets in Flatbush, Brooklyn](/mapping_slavery/finalmap_refd.html)
 
-  #### Charts made of family enslavement totals
+#### Charts made of family enslavement totals
 
   * [All families chart](/mapping_slavery/families_bar.html)
   * [Clarkson](/mapping_slavery/clarkson_table.html)
@@ -47,4 +47,30 @@ I hope that I can keep working on this project and map the entirety of Brooklyn.
   * [Remsen](/mapping_slavery/remsen_line.html)
   * [Vanderveer](/mapping_slavery/vanderveer_line.html)
 
+----
+test zone
+------
 
+<iframe>
+  <style type="text/css">
+#T_a3125 td:hover.col1 {
+  background-color: #4c78a8;
+  opacity: 80%;
+}
+</style>
+<table id="T_a3125">
+  <thead>
+    <tr>
+      <th id="T_a3125_level0_col0" class="col_heading level0 col0" >Year</th>
+      <th id="T_a3125_level0_col1" class="col_heading level0 col1" >Enslaved People</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td id="T_a3125_row0_col0" class="data row0 col0" >1755</td>
+      <td id="T_a3125_row0_col1" class="data row0 col1" >4</td>
+    </tr>
+  </tbody>
+</table>
+
+</iframe>
