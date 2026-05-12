@@ -44,3 +44,4 @@ I hope that I can keep working on this project and map the entirety of Brooklyn.
   * Vanderveer - [vanderveer_line.html](/vanderveer_line.html) and vanderveer_line.json
 
 * GeoJSON file with neighborhood geometry - boroquery.json
+* Python notebook with annotated table of contents - python_notebook_for_map.ipynb
