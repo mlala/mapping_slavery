@@ -23,9 +23,8 @@ I'd like to take a moment to thank Fred Benton, co-director of NESRI, for sendin
 
 ## Disclaimers
 
-> The street names must be further substantiated using genealogical records. Some family names were spelled mutliple ways, like the Vanderveers, and it is unclear from my preliminal research if these were different families or misspellings. I hope to continue working on this and dedicate time to archival research.
->
-> 
+The street names must be further substantiated using genealogical records. Some family names were spelled mutliple ways, like the Vanderveers, and it is unclear from my preliminal research if these were different families or misspellings. I hope to continue working on this and dedicate time to archival research.
+
 
 ## Future Work
 
@@ -52,23 +51,19 @@ test zone
 ------
 
 <iframe>
-  <style type="text/css">
-#T_a3125 td:hover.col1 {
-  background-color: #4c78a8;
-  opacity: 80%;
-}
-</style>
-<table id="T_a3125">
+<table border="1" class="dataframe">
   <thead>
-    <tr>
-      <th id="T_a3125_level0_col0" class="col_heading level0 col0" >Year</th>
-      <th id="T_a3125_level0_col1" class="col_heading level0 col1" >Enslaved People</th>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Year</th>
+      <th>Enslaved People</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td id="T_a3125_row0_col0" class="data row0 col0" >1755</td>
-      <td id="T_a3125_row0_col1" class="data row0 col1" >4</td>
+      <th>0</th>
+      <td>1800</td>
+      <td>7</td>
     </tr>
   </tbody>
 </table>
