@@ -48,42 +48,10 @@ I hope that I can keep working on this project and map the entirety of Brooklyn.
 
 ### test
 
-<script>
+<script src='/mapping_slavery/clarkson_table.html'>
  {"Year":{"0":"1755"},"Enslaved People":{"0":4}}
 </script>
 
 
 
-<!-- Card layout -->
-<div style="display: flex; gap: 1rem; margin: 1rem 0;">
-  <div style="flex: 1; padding: 1rem; border: 1px solid #ddd; border-radius: 8px;">
-    <h5>Card 1</h5>
-    <p>Card content description</p>
-  </div>
-  <div style="flex: 1; padding: 1rem; border: 1px solid #ddd; border-radius: 8px;">
-    <h5>Card 2</h5>
-    <p>Card content description</p>
-  </div>
-  <div style="flex: 1; padding: 1rem; border: 1px solid #ddd; border-radius: 8px;">
-    <h5>Card 3</h5>
-    <p>Card content description</p>
-  </div>
 
-# Sales Chart
-
-<canvas id="salesChart" width="400" height="200"></canvas>
-
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-<script>
-const ctx = document.getElementById('salesChart').getContext('2d');
-new Chart(ctx, {
-  type: 'line',
-  data: {
-    labels: ['Jan', 'Feb', 'Mar', 'Apr'],
-    datasets: [{
-      label: 'Sales',
-      data: [12, 19, 3, 5]
-    }]
-  }
-});
-</script>
