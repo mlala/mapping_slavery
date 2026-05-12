@@ -46,12 +46,6 @@ I hope that I can keep working on this project and map the entirety of Brooklyn.
   * [Remsen](/mapping_slavery/remsen_line.html)
   * [Vanderveer](/mapping_slavery/vanderveer_line.html)
 
-### test
-
-<script src='/mapping_slavery/clarkson_table.html'>
- {"Year":{"0":"1755"},"Enslaved People":{"0":4}}
-</script>
-
-
+### [Technical Specs](/mapping_slavery/another-page.md)
 
 
