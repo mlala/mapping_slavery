@@ -1,5 +1,5 @@
 ---
-Mapping Slavery: a paved legacy in Brooklyn
+layout: default
 ---
 
 # Background
