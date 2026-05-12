@@ -7,6 +7,8 @@ Mapping Slavery: a paved legacy in Brooklyn
 ## About Me
 Maya Davis is a current graduate student in the Library and Information Sciences at the Pratt Institute. She is interested in archiving, cultural stewardship, the African diaspora, data visualization, swimming, and trying exotic fruits.
 
+[contact](mdavi395@pratt.edu)
+
 ## Project Description
 
 This project was built using Python to visualize the streets in Brooklyn that are named after slave-holding families. For the prototype, the focus is on the neighborhood of Flatbush which was previously a town in the 18th and 19th centuries. The streets highlighted identify slave-holding families and list the names of the enslaved held captive by the family. The charts extrapolate data from the North East Slavery Records Index to show the amount of people enslaved according to records of the time, broken down by family and year. 
@@ -45,7 +47,4 @@ I hope that I can keep working on this project and map the entirety of Brooklyn.
   * [Martense](/mapping_slavery/martense_line.html)
   * [Remsen](/mapping_slavery/remsen_line.html)
   * [Vanderveer](/mapping_slavery/vanderveer_line.html)
-
-### [Technical Specs](/mapping_slavery/another_page.md)
-
 
