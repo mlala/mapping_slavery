@@ -48,10 +48,6 @@ I hope that I can keep working on this project and map the entirety of Brooklyn.
 
 ### test
 
-<iframe width="560" height="315" 
-        src="https://www.youtube.com/embed/VIDEO_ID" 
-        title="YouTube video player" 
-        frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-        allowfullscreen>
+<iframe>
+ {"Year":{"0":"1755"},"Enslaved People":{"0":4}}
 </iframe>
