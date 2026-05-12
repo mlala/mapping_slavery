@@ -1,5 +1,5 @@
 ---
-layout: default
+Mapping Slavery: a paved legacy in Brooklyn
 ---
 
 # Background
@@ -46,25 +46,4 @@ I hope that I can keep working on this project and map the entirety of Brooklyn.
   * [Remsen](/mapping_slavery/remsen_line.html)
   * [Vanderveer](/mapping_slavery/vanderveer_line.html)
 
-----
-test zone
-------
 
-<iframe>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>Year</th>
-      <th>Enslaved People</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>0</th>
-      <td>1800</td>
-      <td>7</td>
-    </tr>
-  </tbody>
-</table>
-</iframe>
