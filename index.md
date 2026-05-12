@@ -67,5 +67,21 @@ I hope that I can keep working on this project and map the entirety of Brooklyn.
     <p>Card content description</p>
   </div>
 
+# Sales Chart
 
-</div>
+<canvas id="salesChart" width="400" height="200"></canvas>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+const ctx = document.getElementById('salesChart').getContext('2d');
+new Chart(ctx, {
+  type: 'line',
+  data: {
+    labels: ['Jan', 'Feb', 'Mar', 'Apr'],
+    datasets: [{
+      label: 'Sales',
+      data: [12, 19, 3, 5]
+    }]
+  }
+});
+</script>
