@@ -48,6 +48,10 @@ I hope that I can keep working on this project and map the entirety of Brooklyn.
 
 ### test
 
+<script src="https://cdn.example.com/script.js"></script>
+
+<div id="dynamic-content"></div>
+
 <!-- Card layout -->
 <div style="display: flex; gap: 1rem; margin: 1rem 0;">
   <div style="flex: 1; padding: 1rem; border: 1px solid #ddd; border-radius: 8px;">
